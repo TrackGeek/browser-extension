@@ -11,11 +11,10 @@
 </h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Chrome-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=firefox&logoColor=FF7139">
-  <img src="https://img.shields.io/badge/WebExtensions-000000?style=for-the-badge&logo=webextensions&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=firefox&logoColor=ffffff">
   <a href="https://translate.trackgeek.net"><img src="https://img.shields.io/badge/Crowdin-000000?style=for-the-badge&logo=crowdin&logoColor=ffffff"></a>
 </p>
 
