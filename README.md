@@ -11,11 +11,11 @@
 </h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Chrome-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Firefox-000000?style=for-the-badge&logo=firefox&logoColor=ffffff">
-  <a href="https://translate.trackgeek.net"><img src="https://img.shields.io/badge/Crowdin-000000?style=for-the-badge&logo=crowdin&logoColor=ffffff"></a>
+  <img src="https://img.shields.io/badge/TypeScript-99e3a0?style=for-the-badge&logo=typescript&logoColor=004b38">
+  <img src="https://img.shields.io/badge/React-99e3a0?style=for-the-badge&logo=react&logoColor=004b38">
+  <img src="https://img.shields.io/badge/Chrome-99e3a0?style=for-the-badge&logo=googlechrome&logoColor=004b38">
+  <img src="https://img.shields.io/badge/Firefox-99e3a0?style=for-the-badge&logo=firefox&logoColor=004b38">
+  <a href="https://translate.trackgeek.net"><img src="https://img.shields.io/badge/Crowdin-99e3a0?style=for-the-badge&logo=crowdin&logoColor=004b38"></a>
 </p>
 
 ## <samp>Features</samp>
