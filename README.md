@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-99e3a0?style=for-the-badge&logo=typescript&logoColor=004b38">
-  <img src="https://img.shields.io/badge/React-99e3a0?style=for-the-badge&logo=react&logoColor=004b38">
+  <img src="https://img.shields.io/badge/PReact-99e3a0?style=for-the-badge&logo=preact&logoColor=004b38">
   <img src="https://img.shields.io/badge/Chrome-99e3a0?style=for-the-badge&logo=googlechrome&logoColor=004b38">
   <img src="https://img.shields.io/badge/Firefox-99e3a0?style=for-the-badge&logo=firefox&logoColor=004b38">
   <a href="https://translate.trackgeek.net"><img src="https://img.shields.io/badge/Crowdin-99e3a0?style=for-the-badge&logo=crowdin&logoColor=004b38"></a>
@@ -38,7 +38,7 @@
 <samp>
 
 - TypeScript
-- React
+- Preact
 - Vite
 - WebExtensions API (Manifest V3)
 - TailwindCSS

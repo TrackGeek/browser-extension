@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ryanluker.vscode-coverage-gutters",
+    "orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "bradlc.vscode-tailwindcss",
+    "biomejs.biome",
+  ]
+}
